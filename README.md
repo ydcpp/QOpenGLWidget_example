@@ -8,7 +8,8 @@ This is a Qt6 OpenGL project that I made for fun, it shows some usage examples o
 
 
 The application demonstrates:
-- Usage of VBO, IBO, random colorizations
+- Usage of VBO, IBO
+- Transformation matrix, random positions and colors
 - Usage of vertex and fragment shaders
 - Model View Projection matrices and camera system with pan/zoom/rotate
 - Mouse picking using ray casting
